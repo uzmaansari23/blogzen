@@ -12,8 +12,8 @@
 
 [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/blogzen)](https://github.com/DSC-JSS-NOIDA/blogzen/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/blogzen)](https://github.com/DSC-JSS-NOIDA/blogzen/pulls)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
-[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/QuickLearn?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/QuickLearn?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/QuickLearn?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
+[![Maintenance](https://img.shields.io/maintenance/yes/2023?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
+[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/blogzen?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/blogzen?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/blogzen?style=social)](https://github.com/DSC-JSS-NOIDA/blogzen) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
 
 A collection of resources categorised by tech domains, languages, expertise and much more. QuickLearn gives you a quick access to all the resources that you could need at a single place, within a click!
 
@@ -79,7 +79,7 @@ A collection of resources categorised by tech domains, languages, expertise and 
 
 ### Demo <a href="https://drive.google.com/file/d/1Z6bihDrFMUPy8j5nIqzwnqP4pl_OgPXc/view" style="text-decoration:none;">🎥</a>
 
-#### Website for this repository : <https://dsc-jss-noida.github.io/QuickLearn/>
+#### Website for this repository : <https://blogzen-gdsc.netlify.app/>
 
 <br>
 
