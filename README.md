@@ -68,8 +68,8 @@ A collection of resources categorised by tech domains, languages, expertise and 
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/DSC-JSS-NOIDA/QuickLearn/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DSC-JSS-NOIDA/QuickLearn" />
+			<a href="https://github.com/DSC-JSS-NOIDA/blogzen/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DSC-JSS-NOIDA/blogzen" />
 </a>
 		</td>
 	</tr>
@@ -90,8 +90,8 @@ A collection of resources categorised by tech domains, languages, expertise and 
 - Fork and clone the Repo by typing the following commands in the terminal
 
 ```
-$ git clone https://github.com/<your-github-username>/QuickLearn.git
-$ cd QuickLearn
+$ git clone https://github.com/<your-github-username>/blogzen.git
+$ cd blogzen
 ```
 
 <!--
@@ -155,7 +155,7 @@ $ git remote -v
 ``` 
 Adding Remote Repositories
 ```
-git remote add upstream https://github.com/DSC-JSS-NOIDA/QuickLearn.git
+git remote add upstream https://github.com/DSC-JSS-NOIDA/blogzen.git
 ```
 Pulling from Your Remote
 ```
