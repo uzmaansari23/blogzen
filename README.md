@@ -187,7 +187,7 @@ $ git pull upstream main
 ## Connect with us
 
 <div align="center">
- <a href="https://dscjss.in/"><img src="./assets/images/gdsc-logo.png"  height=100px /></a> <br><br> 
+ <a href="https://dscjss.in/"><img src="./assests/gdsc-logo.png"  height=100px /></a> <br><br> 
 <a href="https://github.com/DSC-JSS-NOIDA" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
