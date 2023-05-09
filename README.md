@@ -116,13 +116,13 @@ $ git clone https://github.com/DSC-JSS-NOIDA/QuickLearn.git
 $ cd QuickLearn
 ``` -->
 
-[![fork.png](https://i.postimg.cc/dtfvSW4H/fork.png)](https://postimg.cc/sv5tMJF7)
+[![fork.png](https://i.postimg.cc/xTPqkF38/fork.png)](https://postimg.cc/BXXJkpyf)
 
 <hr>
 
-[![clone.png](https://i.postimg.cc/XJqdbfZY/clone.png)](https://postimg.cc/47CmvhbD)<hr>
+[![clone.png](https://i.postimg.cc/5t2F51kr/clone.png)](https://postimg.cc/K1CzxXb7)<hr>
 
-[![clone-git-Bash.png](https://i.postimg.cc/ncdF20Qr/clone-git-Bash.png)](https://postimg.cc/gnZbkysb)
+[![clone-git-Bash.png](https://i.postimg.cc/kgcbtDw8/clone-git-Bash.png)](https://postimg.cc/CRR13h3L)
 
 <hr>
 
@@ -170,19 +170,19 @@ $ git pull upstream main
 
 #### Happy?? Star ⭐ this Repo. 🤩
 
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
 
 > Made By GDSC JSS NOIDA with ❤️
 
 <br><br>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/blogzen)
 
-> **_Need help?_** > **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2020)_**
+> **_Need help?_** > **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2023)_**
 
 ## Connect with us
 
@@ -219,3 +219,4 @@ $ git pull upstream main
 ## License
 
 Licensed under the [MIT license](LICENSE).
+
