@@ -1,0 +1,363 @@
+{
+    "blogs": [
+        {
+            "id": "001",
+            "title": "How Technology Has Changed the Way We Work.",
+            "author": "Piyush Gupta",
+            "imageurl":"https://image.slidesharecdn.com/howtechnologyhaschangedthewaywework-140502122618-phpapp01/85/how-technology-has-changed-the-way-we-work-1-320.jpg?cb=1668200547",
+            "img0":"https://i.postimg.cc/Cx4Vw3YM/Whats-App-Image-2022-05-17-at-9-03-36-PM.jpg",
+            "date": "2021-05-05",
+            "content": "Technology has had a profound impact on the way we work. From email to video conferencing, technology has made it easier than ever to communicate with colleagues and clients from around the world. But technology has also made work more demanding, as employees are expected to be constantly connected and available. One of the biggest changes brought about by technology is the rise of remote work. With the advent of high-speed internet and powerful mobile devices, it is now possible for employees to work from anywhere in the world. This has led to a shift away from traditional office spaces and towards more flexible working arrangements. Another way technology has changed the workplace is through automation. Many routine tasks can now be automated using software, freeing up employees to focus on more strategic activities. However, this also means that some jobs are becoming obsolete, as machines take over repetitive tasks. Despite these changes, technology has also created new job opportunities in areas such as software development, data analysis, and cybersecurity. These are all fields that require specialized knowledge and skills, and are likely to remain in high demand for the foreseeable future. In conclusion, technology has transformed the way we work, enabling us to be more productive and connected than ever before. However, it is important to recognize the potential downsides of technology, such as increased pressure to be constantly available and the risk of job displacement. As we continue to adapt to these changes, it is crucial that we find ways to make technology work for us, rather than the other way around.",
+            "tags": [
+                "Development",
+                "Internet of Things (IoT)",
+                "Technology"
+            ],
+            "comments": [
+                {
+                    "author": "Katherine Davis",
+                    "date": "2021-06-08",
+                    "content": "Great article!"
+                },
+                {
+                    "author": "Christopher Lee",
+                    "date": "2023-06-17",
+                    "content": "Thanks for this valuable information."
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "title": "The Rise of Artificial Intelligence in Healthcare",
+            "author": "Sarah Johnson",
+            "imageurl":"https://dashtechinc.com/wp-content/uploads/2021/05/Main-Banner-1.png",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2021-03-15",
+            "content": "Artificial intelligence (AI) is transforming the healthcare industry in numerous ways. From improving patient outcomes to reducing costs, AI is proving to be a valuable tool for healthcare providers. One of the key benefits of AI in healthcare is its ability to analyze vast amounts of data quickly and accurately. This data can be used to identify patterns and insights that would be difficult or impossible for humans to detect. For example, AI can analyze medical images to identify early signs of disease or help identify the best treatment plan for a patient based on their medical history. AI is also being used to develop new treatments and drugs. By analyzing vast amounts of data on the genetic makeup of patients and diseases, AI can identify potential drug candidates more quickly and accurately than traditional methods. This can lead to faster development of new treatments and improved patient outcomes. Another area where AI is having a significant impact is in patient monitoring. Wearable devices and other sensors can collect data on a patient's vital signs and activity levels, which can be analyzed in real-time using AI algorithms. This can help identify potential health issues before they become serious and allow for early intervention. Despite these benefits, there are also concerns about the use of AI in healthcare. One of the biggest concerns is the potential for bias in AI algorithms, which could lead to unequal treatment of patients. It is important that healthcare providers and AI developers work together to ensure that these algorithms are fair and unbiased. In conclusion, AI is transforming the healthcare industry in numerous ways, from improving patient outcomes to reducing costs. While there are certainly challenges to be addressed, the potential benefits of AI in healthcare are too significant to ignore. As we continue to develop and refine these technologies, we must remain mindful of their potential impact on patients and work to ensure that they are used ethically and responsibly. ",
+            "tags": [
+                "Natural Language Processing (NLP)",
+                "Neural Networks",
+                "Programming"
+            ],
+            "comments": [
+                {
+                    "author": "William Thompson",
+                    "date": "2021-03-28",
+                    "content": "Exited for these futuristic tools."
+                },
+                {
+                    "author": "Andrew Wilson",
+                    "date": "2021-05-02",
+                    "content": "Lets rule the world :)"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "title": "The Importance of Branding in Today's Marketplace",
+            "author": "Jane Williams",
+            "imageurl":"https://www.thebalancemoney.com/thmb/LprfZw2yjM27mss9cNvMO6tdnmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/why-is-branding-important-when-it-comes-to-your-marketing-2294845-v4-5b4cb2b146e0fb003753f801.png",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2021-06-10",
+            "content": "Branding is more important than ever in today's competitive marketplace. With so many products and services vying for consumers' attention, a strong brand can help differentiate your business and build customer loyalty. One of the key benefits of branding is that it helps establish a company's identity and reputation. A strong brand communicates to customers what a business stands for, what it offers, and why it is unique. This can help attract and retain customers, as well as differentiate the business from its competitors. Another way branding can benefit a business is by increasing its perceived value. A strong brand can create a sense of quality, reliability, and trustworthiness, which can make customers more willing to pay a premium for its products or services. This can ultimately lead to increased profitability and long-term growth. Branding can also help a business build a sense of community and connection with its customers. By creating a strong brand identity and a compelling brand story, businesses can foster a sense of loyalty and emotional attachment among their customers. This can lead to increased customer retention, repeat business, and positive word-of-mouth referrals. Despite these benefits, many businesses neglect their branding efforts or fail to invest in them properly. This can be a costly mistake, as a weak or inconsistent brand can make it difficult for a business to stand out in a crowded marketplace. It is important for businesses to prioritize their branding efforts and work with experienced professionals to develop a strong, consistent brand identity. In conclusion, branding is essential for businesses looking to succeed in today's marketplace. By establishing a clear identity, building a strong reputation, and fostering a sense of community among customers, businesses can differentiate themselves and build long-term success. Whether you are just starting out or looking to refresh your brand, investing in branding is a critical step towards achieving your business goals. ",
+            "tags": [
+                "Brand Identity",
+                "Logo Design",
+                "Marketing Strategy"
+            ],
+            "comments": [
+                {
+                    "author": "Olivia Martin",
+                    "date": "2021-06-14",
+                    "content": "Is personal branding is deffernt from product branding?"
+                },
+                {
+                    "author": "Ethan Baker",
+                    "date": "2022-02-09",
+                    "content": "Nice one."
+                }
+            ]
+        },
+        {
+            "id": "004",
+            "title": "The Importance of Effective Communication in Management",
+            "author": "David Lee",
+            "imageurl":"https://managementstudyguide.com/images/effective-communication-in-organization.png",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2021-09-20",
+            "content": "Effective communication is a critical skill for any manager. Whether you are leading a team, working with clients, or collaborating with other departments, clear and effective communication is essential for achieving your goals. One of the key benefits of effective communication in management is that it helps build trust and respect among team members. When managers communicate clearly and transparently, it helps create a sense of trust and openness among team members. This can lead to better collaboration, improved problem-solving, and increased productivity. Another way effective communication can benefit a manager is by improving their ability to influence and persuade others. When managers are able to communicate their ideas clearly and persuasively, it can help them gain buy-in from stakeholders, build support for their initiatives, and ultimately achieve their goals more effectively. Effective communication can also help managers identify and address problems more quickly. When managers are able to communicate with team members in a timely and effective manner, it can help identify issues before they escalate, and allow for prompt action to be taken. Despite these benefits, many managers struggle with communication, whether it be due to a lack of confidence, unclear messaging, or poor listening skills. To improve their communication skills, managers can seek out training and development opportunities, practice active listening, and seek feedback from team members. In conclusion, effective communication is a critical skill for managers looking to achieve their goals and build successful teams. By building trust, influencing others, and addressing problems more quickly, managers can improve their performance and build a stronger, more productive team. Whether you are a new manager or a seasoned pro, investing in your communication skills is a critical step towards achieving your goals. ",
+            "tags": [
+                "Leadership",
+                "Organizational Behavior",
+                "Project Management"
+            ],
+            "comments": [
+                {
+                    "author": "Avery Jones",
+                    "date": "2022-01-21",
+                    "content": "Ya! I actually felt a a lot of problems due to poor communication..."
+                },
+                {
+                    "author": "Jacob Kim",
+                    "date": "2022-04-22",
+                    "content": "Inner management is more important before outer management :)"
+                }
+            ]
+        },
+        {
+            "id": "005",
+            "title": " The Power of Storytelling in Design",
+            "author": "Emily Chen",
+            "imageurl":"https://www.socialbeat.in/design-beat/wp-content/uploads/2020/08/DesignBeatBlog-ArtOfStorytelling-3.png",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2021-05-03",
+            "content": "Storytelling is a powerful tool in design that can help create a deeper emotional connection between users and products. By crafting a compelling narrative that resonates with users, designers can help create more engaging and memorable experiences. One of the key benefits of storytelling in design is that it can help differentiate products in a crowded market. By telling a unique and compelling story, designers can help products stand out and create a lasting impression in the minds of users. This can lead to increased brand recognition, customer loyalty, and positive reviews. Another way storytelling can benefit design is by creating a sense of empathy and understanding between users and products. When designers tell stories that are relatable and relevant to users' lives, it can help users feel more connected to products and more invested in their success. This can lead to increased engagement, repeat usage, and overall satisfaction. Storytelling can also be used to convey complex or technical information in a more accessible and engaging way. By using metaphors, analogies, and other storytelling techniques, designers can help make complex ideas more understandable and memorable for users. Despite these benefits, many designers overlook the importance of storytelling in their work or fail to use it effectively. To incorporate storytelling into their design process, designers can start by identifying the key values, emotions, and themes they want to convey, and then crafting a narrative that brings those elements to life. They can also work with copywriters, illustrators, and other creatives to help bring their stories to life. In conclusion, storytelling is a powerful tool in design that can help create more engaging, memorable, and successful products. By using storytelling to differentiate products, create empathy and understanding, and convey complex ideas, designers can build deeper connections with users and achieve greater success. Whether you are designing a website, product, or service, incorporating storytelling into your design process is a critical step towards creating a truly compelling experience. ",
+            "tags": [
+                "User Experience (UX) Design",
+                "Interior Design",
+                "Graphic Design"
+            ],
+            "comments": [
+                {
+                    "author": "Zoey Garcia",
+                    "date": "2021-05-14",
+                    "content": "My favorit story teller is Steve Jobs."
+                },
+                {
+                    "author": "Gabriel Rivera",
+                    "date": "2021-07-10",
+                    "content": "I love Designing"
+                }
+            ]
+        },
+        {
+            "id": "006",
+            "title": "Native vs Hybrid App Development: Which One to Choose?",
+            "author": "Amina Khan",
+            "imageurl":"https://cdn.mindbowser.com/wp-content/uploads/2020/10/16155121/Native-Vs-Hybrid-App.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2021-06-15",
+            "content": "When it comes to developing mobile apps, there are two main approaches: native and hybrid. Both have their advantages and disadvantages, and choosing the right approach can be critical for the success of your app. Here's what you need to know: Native apps are built for specific platforms such as iOS or Android and are written in platform-specific languages such as Swift or Java. Native apps provide the best performance, user experience, and access to device features. They are ideal for complex apps that require high performance and rich features. Hybrid apps are built using web technologies such as HTML, CSS, and JavaScript and are wrapped in a native container that allows them to run on multiple platforms. Hybrid apps provide a cost-effective solution and can be developed quickly. They are ideal for simple apps that don't require advanced features. So which approach should you choose? It depends on your app's requirements and budget. If you need high performance and access to device features, native app development may be the right choice. If you're on a tight budget and need to develop an app quickly, hybrid app development may be a better option. In conclusion, both native and hybrid app development have their strengths and weaknesses, and choosing the right approach is crucial for the success of your app. By understanding the differences between the two, you can make an informed decision about which approach is right for your business.",
+            "tags": [
+                "Development",
+                "App Development ",
+                "Programming"
+            ],
+            "comments": [
+                {
+                    "author": "Mia Turner",
+                    "date": "2021-09-14",
+                    "content": "Nice..."
+                },
+                {
+                    "author": "Samuel Scott",
+                    "date": "2022-07-07",
+                    "content": "Good!!!"
+                }
+            ]
+        },
+        {
+            "id": "007",
+            "title": "How to Edit Videos: The Complete Guide for Beginners",
+            "author": "Kristi Hines",
+            "imageurl":"https://assets-static.invideo.io/images/large/Guide_to_Video_Editing_7a591c7941.png",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2022-08-28",
+            "content": "If you're new to video editing, it can be overwhelming to know where to start. But with the right tools and a little bit of guidance, anyone can learn how to edit videos like a pro. In this comprehensive guide on video editing, writer and marketer Kristi Hines breaks down the basics of video editing for beginners. She covers everything from choosing the right video editing software to importing and organizing footage, trimming and editing clips, and adding transitions, effects, and music to create a polished final product. Hines explains that one of the most important decisions you'll make when starting out is choosing the right video editing software. There are many options available, from free programs like iMovie to more advanced tools like Adobe Premiere Pro. She recommends researching different software options and trying out a few to find the one that works best for you. Once you have your software, Hines walks you through the process of importing and organizing your footage. She explains the importance of creating a project folder to keep all of your assets in one place, and provides tips for naming and categorizing your files for easy reference later on. From there, Hines covers the basics of trimming and editing your clips, including how to use the timeline and different editing tools to make precise cuts and adjustments. She also provides tips for adding transitions between clips, as well as effects and music to enhance your video and make it more engaging for your audience. Throughout the article, Hines provides step-by-step instructions and screenshots to help beginners follow along and gain confidence in their video editing skills. She also includes a list of additional resources and tutorials for those who want to continue learning. Overall, 'How to Edit Videos: The Complete Guide for Beginners' is a valuable resource for anyone looking to dive into the world of video editing. With Hines' expert guidance and easy-to-follow instructions, you'll be well on your way to creating professional-looking videos in no time. The article includes tags such as.",
+            "tags": [
+                "Video editing",
+                "Video marketing",
+                "Content creation"
+            ],
+            "comments": [
+                {
+                    "author": "Sophia Hernandez",
+                    "date": "2022-12-24",
+                    "content": "Editing is all about creativity"
+                },
+                {
+                    "author": "Ava Flores",
+                    "date": "2023-02-20",
+                    "content": "Bigginers should try to observe more."
+                }
+            ]
+        },
+        {
+            "id": "008", 
+            "title": "Google’s Bard AI chatbot can now generate and debug code",
+            "author": "Kirsten Korosec",
+            "imageurl":"https://atlasiko.com/asserts/news/google-chatbot-bard-can-write-and-debug-code.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-06-21",
+            "content": "Google’s conversation AI tool Bard can now help software developers with programming, including generating code, debugging and code explanation — a new set of skills that were added in response to user demand. Coding has been one of the top requests Google has received from users, according to a Friday blog post by Google Research product lead Paige Bailey. Google said Friday it is launching these software development capabilities in more than 20 programming languages including C++, Go, Java, JavaScript, Python and TypeScript. Users can export Python code to Google Colab. Bard can also help with writing functions for Google Sheets. Collectively, this means that Bard, the generative AI experiment Google launched earlier this year, can review and help users debug their source code line by line. Google said developers can tell Bard “this code didn’t work, please fix it,” and it will help debug. It can also translate code from one language to another and explain code snippets, a helpful feature for those new to programming. Bard, which was created to compete with ChatGPT and other language models, didn’t quite stack up to its AI peers in TechCrunch’s own testing on chatbot performance. This latest set of skills could help Bard at least keep apace with ChatGPT and Claude — at least on paper. How well Bard is able to create, translate and debug code is another question. As Bailey cautioned in the blog post, Bard is still an early experiment and “may sometimes provide inaccurate, misleading or false information while presenting it confidently.” For instance, Bard may give developers working code that is incomplete or doesn’t produce the expected output. “Despite these challenges, we believe Bard’s new capabilities can help you by offering new ways to write code, create test cases, or update APIs. If Bard quotes at length from an existing open source project, it will cite the source,” Bailey wrote.",
+            "tags": ["Google", "AI", "Bard"],
+            "comments": [
+                {
+                    "author": "Ryan Mercer",
+                    "date": "2023-06-22",
+                    "content": "If only I understood the full contours of a program before I started writing it. By the time I've supplied enough prompts, I've written the code. I can really only see this as being useful for improving IDEs, compilers, and related bug detection. Perhaps let it make some minor modifications to stuff in the standard library, but all new tools from scratch? Doubting it."
+                },
+                {
+                    "author": "Will Campbell",
+                    "date": "2023-06-23",
+                    "content": "Just a reminder to anyone. Bard does not know code. Bard is a language model and Google has put rules in place to suppress certain output, so that they don't look silly. Google has allowed Bard to reply in this way, and possibly added additional training, though the article doesn't give that information. Bard makes a best guess, on a per word bases, taking into account the prompt and the last few thousand words, and essentially replies with a word cloud that makes it seem as if it knows and can debug code. This is incredibly useful as Bard may generate code examples that contain information the user didn't know existed, and allow them to include that in their code. If it writes a fully functional program, it is only because it has been trained on so many examples of similar programs that it can generate with confidence, but Bard isn't aware of itself. It doesn't know programming languages, it doesn't even know what it seems to know. It just repeats what it has read, based on how likely each next word is, based on the last few thousand words."
+                }
+            ]
+        },
+        {
+            "id": "009", 
+            "title": "Mastering the Art of Time Management: Tips for a Productive Workday",
+            "author": "Emily",
+            "imageurl":"https://uploads-ssl.webflow.com/62a77d20fd9ecb4a52626c7b/640b33064af92c10dcf1f2b7_timemanage%20(1).jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-04",
+            "content": "Do you frequently struggle with completing your work tasks within the given deadline? Do you feel like you're always racing against the clock? If your answer is affirmative, then you're not alone. Time management is a skill that many of us find difficult, but it's crucial to master if we want to have a productive workday. In this post, we'll be providing you with some tips and tricks to enhance your time management abilities and maximize your workday. One of the most crucial things you can do to manage your time effectively is to prioritize your tasks. Begin by listing all the tasks you need to accomplish in a day and then sort them by importance. This will help you concentrate on the most crucial tasks first and ensure that you finish them on time. It's also critical to set realistic deadlines for each task and adhere to them. Another method to improve your time management skills is to eliminate distractions. It's easy to become sidetracked by notifications from social media, emails, or even office chitchat. To reduce distractions, attempt to turn off your phone or email notifications during work hours and locate a peaceful location to work if feasible. Finally, take frequent breaks throughout the day to restore your energy levels. Research indicates that taking short breaks can help boost productivity and creativity. Utilize this time to go for a stroll, stretch, or have a nutritious snack. By prioritizing tasks, minimizing distractions, and taking regular breaks, you can master the art of time management and have a productive workday. Remember, time is a valuable resource, and managing it effectively can assist you in achieving your objectives and maintaining a healthy work-life balance.",
+            "tags": ["Time Management", "Productivity", "Work-Life Balance"],
+            "comments": [
+                {
+                    "author": "Jane",
+                    "date": "2023-05-05",
+                    "content": "Great tips, John! Prioritizing tasks has been a game-changer for me."
+                },
+                {
+                    "author": "Mark",
+                    "date": "2023-05-06",
+                    "content": "I struggle with distractions, but turning off my notifications has helped me stay focused"
+                }
+            ]
+        },{
+            "id": "010", 
+            "title": "Create High-Quality Video Content in Minutes with This AI Tool",
+            "author": "Edmund Green",
+            "imageurl":"https://i.ytimg.com/vi/sZHbKIDYyHI/maxresdefault.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-06",
+            "content": "Pictory.ai is an innovative solution that offers concise and engaging video content to help businesses capture the attention of their audience. The attention span of potential customers has decreased, and it has become more challenging to engage them with long-form content. Pictory uses AI technology to generate videos that are visually stunning and have high-quality graphics, animations, and text overlays. Pictory helps businesses stand out in a crowded market and keep their audience engaged by providing content that is both visually and intellectually stimulating. Additionally, Pictory’s video content can be easily shared on various online platforms, making it a versatile tool for digital marketers. Pictory can also help businesses save time and money in the content creation process. Instead of spending hours writing and editing lengthy blog posts or recording and editing long videos, businesses can use Pictory’s AI-generated videos to create concise and engaging content that resonates with their audience. One of Pictory’s main features is its text-to-video software which is very easy to use. Users can paste in their own script or give it the URL to an article, and Pictory will automatically create a script for them to use. Pictory has a massive stock library of media – over 3 million stock clips – and will pair the script with imagery and video. Users can then edit the video however they want by adding and deleting scenes, swapping media, or uploading their own pictures and video. Pictory also gives users the opportunity to customise things like the colour scheme and font and even add their own brand’s logo as a watermark. Pictory’s video creation feature is beneficial for content creators, social media managers, marketers, online course creators, and small business owners. By providing an affordable and easy-to-use solution, Pictory stands out as the best way to create engaging videos online.",
+            "tags": ["AI", "Content Creation", "Digital Marketing"],
+            "comments": [
+                {
+                    "author": "Manu Mathur",
+                    "date": "2023-05-06",
+                    "content": "I'm blown away by the number of stock clips available in Pictory's media library over 3 million! That's an incredible resource for businesses looking to create engaging videos without breaking the bank. I'm excited to see how I can incorporate this tool into my social media strategy."
+                },
+                {
+                    "author": "Sagar",
+                    "date": "2023-05-06",
+                    "content": "Wow, Pictory.ai sounds like a game-changer for businesses struggling to capture their audience's attention. With decreasing attention spans, it's essential to have visually stunning and intellectually stimulating content, and Pictory offers just that. Plus, the ability to easily share videos across various online platforms is a huge bonus. I can't wait to give it a try!"
+                }
+            ]
+        }
+        ,{
+            "id": "011", 
+            "title": "The Rise of NFTs: A New Era for Digital Art",
+            "author": "Zain Mümtaz",
+            "imageurl":"https://www.prayananimation.com/blog/wp-content/uploads/2022/02/The-revoltionary-rise-of-NFTs-in-the-Digital-Art-world.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-03",
+            "content": "In recent years, a new trend has emerged in the world of art: the rise of NFTs or non-fungible tokens. NFTs are unique digital assets that are stored on the blockchain, making them verifiable and immutable. They have become increasingly popular among digital artists who are looking for new ways to monetize their work. With NFTs, artists can sell their digital creations as one-of-a-kind items, allowing them to retain ownership and control over their work. This has opened up a new era for digital art, where creators can now make a living from their work in ways that were previously impossible. NFTs have also attracted attention from collectors and investors, who are interested in owning unique pieces of digital art. Some NFTs have sold for millions of dollars, including a digital artwork by Beeple that sold for $69 million at a Christie's auction in March 2021. This has sparked a new wave of interest in NFTs, with more and more artists and creators jumping on board. However, the rise of NFTs has also raised questions about the environmental impact of blockchain technology, which is used to create and store NFTs. Critics have pointed out that the energy consumption required for mining and maintaining the blockchain is unsustainable and could have a significant impact on the environment. Despite these concerns, NFTs are here to stay and are poised to transform the world of digital art in ways that we have yet to fully understand. As technology continues to evolve, it's exciting to think about the new possibilities that NFTs will bring to the world of art and beyond.",
+            "tags": ["NFTs", "Digital Art", "Blockchain", "Technology", "Cryptocurrency"],
+            "comments": [
+                {
+                    "author": "Bertrand",
+                    "date": "2023-05-03",
+                    "content": "Interesting read on NFTs and their investment potential. Got me thinking about diversifying my portfolio beyond traditional investments."
+                },
+                {
+                    "author": "Jones Leroy",
+                    "date": "2023-05-04",
+                    "content": "Interesting article on NFTs and how they can change the art industry. Technology constantly impacts our lives, and it's fascinating to see how."
+                }
+            ]
+        }
+        ,{
+            "id": "012", 
+            "title": "Mind-reading technology has arrived",
+            "author": "Sigal Samuel",
+            "imageurl":"https://scottamyx.com/wp-content/uploads/2017/08/mind-reading.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-04",
+            "content": "Well, the technology is no longer just “coming.” It’s here. With the help of AI, scientists from the University of Texas at Austin have developed a technique that can translate people’s brain activity — like the unspoken thoughts swirling through our minds — into actual speech, according to a study published in Nature. In the past, researchers have shown that they can decode unspoken language by implanting electrodes in the brain and then using an algorithm that reads the brain’s activity and translates it into text on a computer screen. But that approach is very invasive, requiring surgery. It appealed only to a subset of patients, like those with paralysis, for whom the benefits were worth the costs. So researchers also developed techniques that didn’t involve surgical implants. They were good enough to decode basic brain states, like fatigue, or very short phrases — but not much more. Now we’ve got a non-invasive brain-computer interface (BCI) that can decode continuous language from the brain, so somebody else can read the general gist of what we’re thinking even if we haven’t uttered a single word. How is that possible? It comes down to the marriage of two technologies: fMRI scans, which measure blood flow to different areas of the brain, and large AI language models, similar to the now-infamous ChatGPT. In the University of Texas study, three participants listened to 16 hours of storytelling podcasts like The Moth while scientists used an fMRI machine to track the change in blood flow in their brains. That data allowed the scientists, using an AI model, to associate a phrase with how each person’s brain looks when it hears that specific phrase. Because the number of possible word sequences is so vast, and many of them would be gibberish, the scientists also used a language model — specifically, GPT-1 — to narrow down possible sequences to well-formed English and predict which words are likeliest to come next in a sequence. The result is a decoder that gets the gist right, even though it doesn’t nail every single word. For example, participants were asked to imagine telling a story while in the fMRI machine. Later, they repeated it aloud so the scientists could see how well the decoded story matched up with the original. When the participant thought, “Look for a message from my wife saying that she had changed her mind and that she was coming back,” the decoder translated: “To see her for some reason I thought she would come to me and say she misses me.” Here’s another example. When the participant thought, “Coming down a hill at me on a skateboard and he was going really fast and he stopped just in time,” the decoder translated: “He couldn’t get to me fast enough he drove straight up into my lane and tried to ram me.” It’s not a word-for-word translation, but much of the general meaning is preserved. This represents a breakthrough that goes well beyond what previous brain-reading tech could do — and one that raises serious ethical questions.",
+            "tags": ["AI", "Reasearch", "Language", "Technology"],
+            "comments": [
+                {
+                    "author": "David",
+                    "date": "2023-05-05",
+                    "content": "Breakthrough in brain-computer interface technology raises ethical concerns about privacy. Will thoughts remain private or accessible through technology? Implications must be considered."
+                },
+                {
+                    "author": "Maria",
+                    "date": "2023-05-06",
+                    "content": "I see the benefits of this technology for those unable to speak due to conditions like paralysis, but we must consider how it could be misused. Could it be used to extract information from individuals without their consent? We need to proceed with caution and carefully consider the potential consequences."
+                }
+            ]
+        }
+        ,{
+            "id": "013", 
+            "title": "Tim Cook addresses rising interest in AI, saying more future Apple products will use it",
+            "author": "Daniel Sims",
+            "imageurl":"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2023-05/fbf0370a-0012-4580-8ae0-5703aa773118.jpg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-06",
+            "content": "As tech companies increasingly latch onto generative AI as the latest dominant trend, Apple remains suspiciously quiet on the topic. CEO Tim Cook finally commented on the technology in the company's Q2 2023 earnings call, expressing interest without revealing any concrete plans. Apple CEO Tim Cook admitted that Apple is interested in the potential of emerging AI technology in a recent earnings call. However, he also expressed the need for caution as competitors like Google and Microsoft dive into generative AI applications in a way some have called clumsy. Cook reiterated Apple's policy of keeping its future roadmaps private in response to a question about AI, but he admitted the potential is huge. He pointed out how Apple has already used AI for features like crash detection and heart monitoring, and said the company will keep incorporating AI. However, the CEO stressed that Apple will approach AI carefully, noting that there are still issues to solve. Cook was likely referring to the controversies surrounding generative AI technologies like ChatGPT or Midjourney. Microsoft, Google, and others are developing chatbots based on OpenAI's technology underpinning ChatGPT, but anyone who has used it so far knows it often makes things up. AI-based image generators like DALL-E, Stable Diffusion, and Midjourney, create impressive and often believable images but are trained on human-made pictures, raising copyright-related questions. Adobe is traversing those murky waters while incorporating generative AI into its suite. Additionally, Amazon recently unveiled Bedrock, a tool to help businesses to leverage AI models. Apple, meanwhile, hasn't unveiled any products or services utilizing generative AI. Cook's latest comments confirm speculation that Apple wants to avoid the problems that have emerged from tools like ChatGPT. Prior reports allege that Apple's caution has caused internal friction regarding the development of its AI companion, Siri. A sticking point was the company's preference to have Siri generate pre-written responses instead of relaying responses from the internet to avoid something like ChatGPT's hallucinations. Eventually, three Siri engineers left Apple to join Google. Cook's remarks were part of an earnings call for the quarter ending April 1 in which the company exceeded projected expectations. Although Mac and iPad revenue were down, iPhone growth helped drive a positive quarter for the company.",
+            "tags": ["AI", "Google", "Microsoft", "Chatbots", "Generative AI"],
+            "comments": [
+                {
+                    "author": "Hexic",
+                    "date": "2023-05-06",
+                    "content": "Tim Cook addresses rising interest in AI, saying more future Apple products will use it ...after the rest of the market adopts AI for years, and works out the kinks ahead of time. Just like it's always been. This is the way."
+                },
+                {
+                    "author": "Uncle Al",
+                    "date": "2023-05-06",
+                    "content": "Isn't Cook way overdue for retirement?"
+                }
+            ]
+        }
+        ,{
+            "id": "014", 
+            "title": "Google introduces blue verified checkmarks to Gmail",
+            "author": "Rob Thubron ",
+            "imageurl":"https://ebuzzpro.com/wp-content/uploads/2023/05/Google-Gmail-Verified-Blue-Checkmarks-1024x576.webp",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-04",
+            "content": "What just happened? We can't seem to escape blue verification marks these days. With Twitter, Instagram, Facebook, and others embracing verified checkmarks, Google is joining the party with its own blue icon for Gmail. It's not just an ego thing, though; the company says these icons will help users identify scam emails. The blue checkmark will automatically appear in emails from companies that are part of Gmail's Brand Indicators for Message Identification (BIMI) feature, which arrived in 2021. BIMI requires senders to use strong authentication with DMARC (Domain-based Message Authentication, Reporting, and Conformance) and verify their brand logo with a VMC, issued by a Certification Authority such as Entrust or DigiCert. This allows senders to display a logo in the avatar slot in emails, next to the their name and address. Gmail users will now see a checkmark icon for senders that have adopted BIMI, further helping them identify which emails are legitimate and which ones are impersonators. If you find a blue seal with a white tick in a Gmail message, you can hover over it to see a pop-up that reads. The sender of this email has verified that they own and the logo in the profile image. The pop-up also contains a link that directs to more information about the checkmark. Google says that strong email authentication helps users and email security systems identify and stop spam while enabling senders to leverage their brand trust. The Gmail brand verification has now started rolling out. It will be available for free to those with personal Google accounts, all Google Workspace customers, and legacy G Suite Basic and Business customers. Admins can visit the Help Center to learn more about setting up BIMI. The timing of Gmail's new feature comes as Twitter and Elon Musk are embroiled in a very public verification shambles. The company got rid of its legacy blue ticks last week, and there are reports that Musk has been giving some celebs the verified mark for free after they refused to pay the $8 per month. According to the LA Times, such a move could land Musk in legal trouble for violating US Federal Trade Commission regulations surrounding consumer protection and false advertising.",
+            "tags": ["Google", "Gmail", "Verification"],
+            "comments": [
+                {
+                    "author": "Plutoisaplanet",
+                    "date": "2023-05-04",
+                    "content": "I guarantee these blue checkmarks will be used to phish people"
+                },
+                {
+                    "author": "Wiyosaya",
+                    "date": "2023-05-04",
+                    "content": "Undoubtedly. And, IMO, its hypocritical. Google is constantly mining everyone's data for info that they can market and, at the same time, trying to convince everyone that they are trying to protect them and their privacy. This is just another one of those efforts, as I see it. Maybe as an aside or a possible example - I use sneakemail to maintain anonymity with vendors on the internet and it has kept my e-mail virtually spam-free over the years. A recent vendor that I dealt with has a gmail address as a contact address. When I tried to send an email to that vendor with a sneakemail address as the return address, gmail just gave an automatic bounce message giving, to me, anyway, a BS explanation that the from address was not verifiable and therefore must be a scam. The only thing that I could think was how hypocritical of them - they scan everyone's e-mails, and likely mine and market the data, then sell that to their clients, and they are policing their users' e-mail in the name of protection? 🤣 This crap is why I avoid using google as if google were Ebola."
+                }
+            ]
+        }
+        ,{
+            "id": "015", 
+            "title": "How to bring your designs to life with interactive animation",
+            "author": "Renee Fleck",
+            "imageurl":"https://framerusercontent.com/images/THZTTBgxQcFA39a6du4XWbZvsM.jpeg",
+            "img0":"https://www.pngitem.com/pimgs/m/214-2145309_blank-profile-picture-circle-hd-png-download.png",
+            "date": "2023-05-02",
+            "content": "Immersive content has gained popularity in recent years due to advancements in interactivity and animation. Interactive animation allows designers to create more engaging user experiences that respond to user input in real-time. This animation allows viewers to interact and engage with the design on multiple levels, creating a dynamic and engaging experience. The benefits of interactive animation are numerous. It can help to improve engagement and conversions by prompting users to take specific actions. It also helps to explain complex concepts in a more interactive and engaging way, guiding users through complex processes or actions. Additionally, it can add an element of fun and playfulness to the user experience, resulting in increased brand loyalty. For those looking to incorporate interactive animation into their designs, there are a few tips to keep in mind. Firstly, it's essential to choose the right tools. Rive is a great option for creating visually stunning and thematically flawless interactive animations. Secondly, it's important to use animations sparingly and intentionally, only animating what is necessary to capture the audience's attention. Finally, testing is crucial to ensure that the animations work as intended on different browsers and devices. In conclusion, interactive animation is an excellent tool for enhancing design work with interactivity. When used thoughtfully, it can help to improve engagement and conversions, make difficult concepts easy to understand, and add an element of fun to the user experience. By choosing the right tools, using animations sparingly and intentionally, and testing designs thoroughly, designers can successfully incorporate interactive animation into their product designs.",
+            "tags": ["Design", "Tools", "User Experience"],
+            "comments": [
+                {
+                    "author": "Sarah",
+                    "date": "2023-05-08",
+                    "content": "This is a great overview of interactive animation and its benefits. I especially like the tip about using animations sparingly and intentionally to avoid overwhelming the user."
+                },
+                {
+                    "author": "Lisa",
+                    "date": "2023-05-09",
+                    "content": "This post does a great job of explaining the benefits of interactive animation, especially how it can improve engagement and conversions. I'm definitely going to look into incorporating more interactive elements into my designs."
+                }
+            ]
+        }
+    
+    ] 
+    
+}
